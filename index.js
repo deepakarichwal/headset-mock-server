@@ -16,7 +16,7 @@ server.db = router.db;
 const middlewares = jsonServer.defaults();
 const rules = auth.rewriter({
   products: 444,
-  featured_Products: 444,
+  featured_products: 444,
   order: 660,
   users: 600,
 });

@@ -6,6 +6,7 @@ const server = express();
 server.use((req, res, next) => {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "*");
+  next();
 });
 
 const router = jsonServer.router("./data/db.json");
@@ -16,7 +17,7 @@ const middlewares = jsonServer.defaults();
 const rules = auth.rewriter({
   products: 444,
   featured_Products: 444,
-  orders: 660,
+  order: 660,
   users: 600,
 });
 

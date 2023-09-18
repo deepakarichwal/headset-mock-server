@@ -6,7 +6,7 @@
       "overview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
       "price": 20,
-      "image": "assets/1.jpg",
+      "image": "/assets/1.jpg",
       "rating": 4,
       "in_stock": true,
       "best_seller": true
@@ -17,7 +17,7 @@
       "overview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
       "price": 25,
-      "image": "assets/2.jpg",
+      "image": "/assets/2.jpg",
       "rating": 5,
       "in_stock": false,
       "best_seller": false
@@ -28,7 +28,7 @@
       "overview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
       "price": 15,
-      "image": "assets/3.jpg",
+      "image": "/assets/3.jpg",
       "rating": 3,
       "in_stock": true,
       "best_seller": false
@@ -39,7 +39,7 @@
       "overview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
       "price": 30,
-      "image": "assets/4.jpg",
+      "image": "/assets/4.jpg",
       "rating": 4,
       "in_stock": true,
       "best_seller": true
@@ -50,7 +50,7 @@
       "overview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
       "price": 22,
-      "image": "assets/5.jpg",
+      "image": "/assets/5.jpg",
       "rating": 5,
       "in_stock": true,
       "best_seller": true
@@ -63,7 +63,7 @@
       "overview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
       "price": 20,
-      "image": "assets/1.jpg",
+      "image": "/assets/1.jpg",
       "rating": 4,
       "in_stock": true,
       "best_seller": true
@@ -74,7 +74,7 @@
       "overview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
       "price": 15,
-      "image": "assets/3.jpg",
+      "image": "/assets/3.jpg",
       "rating": 3,
       "in_stock": true,
       "best_seller": false
@@ -85,7 +85,7 @@
       "overview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
       "price": 30,
-      "image": "assets/4.jpg",
+      "image": "/assets/4.jpg",
       "rating": 4,
       "in_stock": true,
       "best_seller": true
@@ -100,7 +100,7 @@
           "overview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
           "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
           "price": 15,
-          "image": "assets/3.jpg",
+          "image": "/assets/3.jpg",
           "rating": 3,
           "in_stock": true,
           "best_seller": false
@@ -111,7 +111,7 @@
           "overview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
           "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
           "price": 20,
-          "image": "assets/1.jpg",
+          "image": "/assets/1.jpg",
           "rating": 4,
           "in_stock": true,
           "best_seller": true
@@ -122,7 +122,7 @@
           "overview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
           "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
           "price": 22,
-          "image": "assets/5.jpg",
+          "image": "/assets/5.jpg",
           "rating": 5,
           "in_stock": true,
           "best_seller": true

@@ -8,7 +8,7 @@ server.use((req, res, next) => {
   res.header("Access-Control-Allow-Headers", "*");
 });
 
-const router = jsonerver.router("./data/db.json");
+const router = jsonServer.router("./data/db.json");
 server.use("/api", router);
 server.db = router.db;
 
